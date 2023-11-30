@@ -4,3 +4,19 @@ body    {
 #picz 	{
 	text-align: center;
 }
+#tablets{
+	border-color: white;
+}
+th		{
+	color: yellow;
+	font-size: 20px;
+}
+p 		{
+	color: indianred;
+	font-style: italic;
+	font-weight: bold;
+}
+td		{
+	color: white;
+	text-align: center;
+}
